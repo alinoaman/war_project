@@ -83,7 +83,7 @@
 
             <button type="submit">Login</button>
             <div class="signup">
-                <p>Account nahi hai kya????????? <a href="/signup">Sign up here</a>.</p>
+                <p>Dont have an account?<a href="/signup">Sign up here</a>.</p>
             </div>
         </form>
     </div>
